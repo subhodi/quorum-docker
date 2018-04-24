@@ -36,9 +36,3 @@ RUN cd quorum && \
 
 RUN wget -q https://github.com/jpmorganchase/quorum/releases/download/v1.2.0/porosity && \
     mv porosity /usr/local/bin && chmod 0755 /usr/local/bin/porosity
-
-
-
-
-
-
